@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"wp-in1go","mapped_name":""},"allowed_paths":["\/hermes\/bosnacweb01\/bosnacweb01ax\/b2172\/myd.1gomobi\/in1gotech\/wp-content\/themes"],"cache_path":"\/hermes\/bosnacweb01\/bosnacweb01ax\/b2172\/myd.1gomobi\/in1gotech\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>
