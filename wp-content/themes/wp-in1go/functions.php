@@ -42,7 +42,7 @@ add_filter( 'script_loader_src', 'remove_css_js_version', 9999 );
 // ?EnQue - Dependencies
 // !Add Css
 function fj_addstyle(){
-  wp_enqueue_style('style',get_template_directory_uri()."/style.min.css");
+  wp_enqueue_style('style',get_template_directory_uri()."/style.css");
 }
  add_action('wp_enqueue_scripts','fj_addstyle');
 //!Add Scripts
